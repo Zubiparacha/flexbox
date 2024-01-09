@@ -1,0 +1,36 @@
+* {
+    font-family: bold;
+}
+#navbar {
+    height: 40px;
+    width: auto;
+    margin:20PX 20PX 20PX 20PX;
+}
+#logo {
+    color: skyblue;
+    font-size: 20PX;
+    font-family: 'Times New Roman', Times, serif;
+}
+button {
+    background-color: rgb(121, 161, 177);
+}
+a {
+    margin: 40px;
+    text-decoration: none
+   
+}
+.container {
+    height: auto;
+    display:flex;
+    width: 100%;
+
+
+}
+.box {
+    height:400px;
+    text-align: center;
+    width: 300px;
+    border:solid
+
+
+}
